@@ -1,0 +1,10 @@
+.perfil__funcao {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+@media screen and (max-width: 768px) {
+    .perfil__info {
+        margin-bottom: 30px;
+    }
+}

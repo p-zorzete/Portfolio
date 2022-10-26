@@ -1,0 +1,15 @@
+.perfil__botao {
+    align-self: flex-end;
+    background: #ecf4ff;
+    border: 2px solid #0e1d2f;
+    border-radius: 100px;
+    box-sizing: border-box;
+    font-size: 16px;
+    padding: 8px 16px;
+}
+
+.dark .perfil__botao {
+  background: #1c1c1c;
+  border: 2px solid #f7f7f7;
+  color: #f7f7f7;
+}

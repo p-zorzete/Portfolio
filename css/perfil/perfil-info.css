@@ -1,0 +1,16 @@
+.perfil__info {
+    margin-left: 20px;
+}
+
+.dark .perfil__info {
+    color: #f7f7f7;
+}
+  
+
+@media screen and (max-width: 768px) {
+    .perfil__info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

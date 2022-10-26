@@ -1,0 +1,25 @@
+header {
+    background: #ecf4ff;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px #0e1d2f;
+    color: #1c1c1c;
+}
+
+.dark header {
+    background: #333439;
+    box-shadow: 6px 6px 6px #0e1d2f;
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        margin: 10px;
+        padding: 15px;
+    }
+}
+  
+@media screen and (min-width: 768px) {
+    header {
+        margin: 40px;
+        padding: 64px;
+    }
+}

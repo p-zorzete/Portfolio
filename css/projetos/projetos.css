@@ -1,0 +1,4 @@
+.projetos {
+    overflow-y: scroll;
+    scrollbar-width: thin;
+}

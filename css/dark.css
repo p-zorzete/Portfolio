@@ -1,0 +1,24 @@
+.dark {
+    background: #375b86;
+}
+  
+  .dark header {
+    background: #333439;
+    box-shadow: 6px 6px 6px #0e1d2f;
+  }
+  
+  .dark .container {
+    color: #f7f7f7;
+  }
+  
+  .dark main {
+    background: linear-gradient(230.65deg, #499cfe 27.49%, #9cc8fc 83.19%);
+    box-shadow: 2px 2px 4px rgba(16, 16, 16, 0.42);
+    color: #1c1c1c;
+  }
+  
+  .dark .alterar__tema {
+    background: #1c1c1c;
+    border: 2px solid #f7f7f7;
+    color: #f7f7f7;
+  }

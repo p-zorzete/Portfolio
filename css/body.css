@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(236.85deg, #041832 27.26%, #3468a7 96.03%);
+    font-family: "Roboto";
+}
+
+.dark {
+    background: #375b86;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        height: 900px;
+    }
+}
